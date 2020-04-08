@@ -37,3 +37,15 @@ Lisp descriptions of processes, which are called **procedures**, can be represen
 *Why does this matter?* Becuase there are powerful program-design techniques that require yu to blur the traditional distinction between "passive' data and "active processes
 
 The ability to represent procedures as data makes Lisp an excellent language for writing programs that must manipulate other programs as data, such as interpreters or compilers
+
+## 1.1 The Elements of Programming
+A powerful programming language serves as a framework for us to organize our thoughts and ideas about processes
+
+Powerful languages have three main mechanisms for helping to combine simple ideas into more complex ideas:
+1. **primitive expressions** are the simplest entities the language is concerned with
+2. **means of combination** are compound elements built from smaller ones
+3. **means of abstraction** are compound elements that can be named and manipulated as units
+
+Programming deals with two elements: procedures and data
+
+Data is the stuff we want to manipulate and procedures are the descriptions of rules used to manipulate the data
