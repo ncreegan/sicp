@@ -1,4 +1,4 @@
-#Chapter 1 Notes: Building Abstractions with Procedures
+# Chapter 1 Notes: Building Abstractions with Procedures
 
 **Computational processes** are abstract beings that inhabit computers
 
